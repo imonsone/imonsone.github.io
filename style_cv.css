@@ -20,7 +20,7 @@ body {
   h1 {
     font-size: 36px;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 15px;
     justify-content: center;
   }
   
@@ -76,4 +76,12 @@ body {
     padding: 20px;
     background-color: rgba(141, 233, 221, 0.651);
     box-shadow: 0 0 10px rgba(17, 17, 17, 0.5);
+  }
+
+  #nombre{
+    height: 16px;
+    width: 158px;
+    margin-left: 2px;
+    margin-bottom: 15px;
+  }
   }
