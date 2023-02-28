@@ -8,7 +8,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: rgba(141, 233, 221, 0.651);
+    background-color: rgb(141, 233, 221, 0.651);
     box-shadow: 0 0 10px rgba(17, 17, 17, 0.5);
   }
 
@@ -83,5 +83,21 @@ body {
     width: 158px;
     margin-left: 2px;
     margin-bottom: 15px;
+    border-radius: 10px;
   }
+
+  #email{
+    height: 16px;
+    width: 158px;
+    margin-left: 2px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+  }
+
+  #mensaje{
+    height: 100px;
+    width: 158px;
+    margin-left: 2px;
+    margin-bottom: 15px;
+    border-radius: 15px;
   }
